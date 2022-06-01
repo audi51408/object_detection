@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YOLOXMLStruct>
+  <Folder>20210504</Folder>
+  <FileName>A114R016BY01001_Dft</FileName>
+  <FilePath>D:\BaiduNetdiskDownload\495_20210429-20210512\20210504\A114R016BY01001_Dft.hobj</FilePath>
+  <DefectBound>
+    <X1>107</X1>
+    <Y1>403</Y1>
+    <X2>121</X2>
+    <Y2>423</Y2>
+  </DefectBound>
+  <Label>
+    <ADC>ITO_Udev;16</ADC>
+    <ADJ>G</ADJ>
+    <IsRepairAT>TRUE</IsRepairAT>
+    <IsRepairAOI />
+  </Label>
+</YOLOXMLStruct>

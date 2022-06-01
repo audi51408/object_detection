@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YOLOXMLStruct>
+  <Folder>20210612</Folder>
+  <FileName>A116408KAR01006_Dft</FileName>
+  <FilePath>D:\BaiduNetdiskDownload\495\20210612\A116408KAR01006_Dft.hobj</FilePath>
+  <DefectBound>
+    <X1>165</X1>
+    <Y1>404</Y1>
+    <X2>171</X2>
+    <Y2>409</Y2>
+  </DefectBound>
+  <Label>
+    <ADC>F_PT;FPT</ADC>
+    <ADJ>G</ADJ>
+    <IsRepairAT>FALSE</IsRepairAT>
+    <IsRepairAOI />
+  </Label>
+</YOLOXMLStruct>
